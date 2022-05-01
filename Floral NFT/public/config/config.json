@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa5742efC692d6047522cE42156Ec7E66c349BfFf",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Floral NFT",
+  "SYMBOL": "TFNFT",
+  "MAX_SUPPLY": 7,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fnft-lsyqo5vud8",
+  "SHOW_BACKGROUND": true
+}
